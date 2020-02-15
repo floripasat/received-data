@@ -57,17 +57,17 @@ The organization of the database (CSV files) are described in the tables below:
 | 3      | Hour                                        |
 | 4      | Minute                                      |
 | 5      | Second                                      |
-| 6      | TODO                                        |
+| 6      | RESERVED                                    |
 | 7      | RESERVED                                    |
 | 8      | RESERVED                                    |
 | 9      | RESERVED                                    |
 | 10     | RESERVED                                    |
-| 11     | RESERVED                                    |
-| 12     | IMU status                                  |
-| 13     | uSD card status                             |
-| 14     | RUSH payload status                         |
-| 15     | EPS status                                  |
-| 16     | Antenna module status                       |
+| 11     | IMU status                                  |
+| 12     | uSD card status                             |
+| 13     | RUSH payload status                         |
+| 14     | EPS status                                  |
+| 15     | Antenna module status                       |
+| 16     | RESERVED                                    |
 | 17     | RESERVED                                    |
 | 18     | RESERVED                                    |
 | 19     | RESERVED                                    |
@@ -79,10 +79,10 @@ The organization of the database (CSV files) are described in the tables below:
 | 25     | RESERVED                                    |
 | 26     | RESERVED                                    |
 | 27     | RESERVED                                    |
-| 28     | RESERVED                                    |
-| 29     | OBDH microcontroller temperature in Celsius |
-| 30     | OBDH input voltage                          |
-| 31     | OBDH input current in mA                    |
+| 28     | OBDH microcontroller temperature in Celsius |
+| 29     | OBDH input voltage                          |
+| 30     | OBDH input current in mA                    |
+| 31     | RESERVED                                    |
 | 32     | RESERVED                                    |
 | 33     | RESERVED                                    |
 | 34     | RESERVED                                    |
@@ -119,7 +119,6 @@ The organization of the database (CSV files) are described in the tables below:
 | 65     | RESERVED                                    |
 | 66     | RESERVED                                    |
 | 67     | RESERVED                                    |
-| 68     | RESERVED                                    |
-| 69     | SatNOGS observation                         |
-| 70     | Callsign                                    |
-| 71     | Grid locator                                |
+| 68     | SatNOGS observation                         |
+| 69     | Callsign                                    |
+| 70     | Grid locator                                |
