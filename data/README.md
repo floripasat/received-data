@@ -43,18 +43,83 @@ The organization of the database (CSV files) are described in the tables below:
 | 34     | RESERVED                                   |
 | 35     | RESERVED                                   |
 | 36     | EPS microcontroller temperature in Celsius |
-| 37     | SatNOGS Observation                        |
+| 37     | SatNOGS observation                        |
 | 38     | Callsign                                   |
 | 39     | Grid locator                               |
 
 ## Downlink
 
-| Column | Content                                    |
-| :----: | :----------------------------------------- |
-| 0      | Year                                       |
-| 1      | Month                                      |
-| 2      | Day                                        |
-| 3      | Hour                                       |
-| 4      | Minute                                     |
-| 5      | Second                                     |
-| 6      | TODO                                       |
+| Column | Content                                     |
+| :----: | :------------------------------------------ |
+| 0      | Year                                        |
+| 1      | Month                                       |
+| 2      | Day                                         |
+| 3      | Hour                                        |
+| 4      | Minute                                      |
+| 5      | Second                                      |
+| 6      | TODO                                        |
+| 7      | RESERVED                                    |
+| 8      | RESERVED                                    |
+| 9      | RESERVED                                    |
+| 10     | RESERVED                                    |
+| 11     | RESERVED                                    |
+| 12     | IMU status                                  |
+| 13     | uSD card status                             |
+| 14     | RUSH payload status                         |
+| 15     | EPS status                                  |
+| 16     | Antenna module status                       |
+| 17     | RESERVED                                    |
+| 18     | RESERVED                                    |
+| 19     | RESERVED                                    |
+| 20     | RESERVED                                    |
+| 21     | RESERVED                                    |
+| 22     | RESERVED                                    |
+| 23     | RESERVED                                    |
+| 24     | RESERVED                                    |
+| 25     | RESERVED                                    |
+| 26     | RESERVED                                    |
+| 27     | RESERVED                                    |
+| 28     | RESERVED                                    |
+| 29     | OBDH microcontroller temperature in Celsius |
+| 30     | OBDH input voltage                          |
+| 31     | OBDH input current in mA                    |
+| 32     | RESERVED                                    |
+| 33     | RESERVED                                    |
+| 34     | RESERVED                                    |
+| 35     | RESERVED                                    |
+| 36     | RESERVED                                    |
+| 37     | RESERVED                                    |
+| 38     | RESERVED                                    |
+| 39     | RESERVED                                    |
+| 40     | RESERVED                                    |
+| 41     | RESERVED                                    |
+| 42     | RESERVED                                    |
+| 43     | RESERVED                                    |
+| 44     | RESERVED                                    |
+| 45     | RESERVED                                    |
+| 46     | RESERVED                                    |
+| 47     | RESERVED                                    |
+| 48     | RESERVED                                    |
+| 49     | RESERVED                                    |
+| 50     | RESERVED                                    |
+| 51     | RESERVED                                    |
+| 52     | RESERVED                                    |
+| 53     | RESERVED                                    |
+| 54     | RESERVED                                    |
+| 55     | RESERVED                                    |
+| 56     | RESERVED                                    |
+| 57     | RESERVED                                    |
+| 58     | RESERVED                                    |
+| 59     | RESERVED                                    |
+| 60     | RESERVED                                    |
+| 61     | RESERVED                                    |
+| 62     | RESERVED                                    |
+| 63     | RESERVED                                    |
+| 64     | RESERVED                                    |
+| 65     | RESERVED                                    |
+| 66     | RESERVED                                    |
+| 67     | RESERVED                                    |
+| 68     | RESERVED                                    |
+| 69     | SatNOGS observation                         |
+| 70     | Callsign                                    |
+| 71     | Grid locator                                |
