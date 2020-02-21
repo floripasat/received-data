@@ -6,12 +6,12 @@ The organization of the database (CSV files) are described in the tables below:
 
 | Column | Content                                    |
 | :----: | :----------------------------------------- |
-| 0      | Year                                       |
-| 1      | Month                                      |
-| 2      | Day                                        |
-| 3      | Hour                                       |
-| 4      | Minute                                     |
-| 5      | Second                                     |
+| 0      | Year (UTC)                                 |
+| 1      | Month (UTC)                                |
+| 2      | Day (UTC)                                  |
+| 3      | Hour (UTC)                                 |
+| 4      | Minute (UTC)                               |
+| 5      | Second (UTC)                               |
 | 6      | Battery cell 1 voltage                     |
 | 7      | Battery cell 2 voltage                     |
 | 8      | Battery monitor temperature in Celsius     |
@@ -51,12 +51,12 @@ The organization of the database (CSV files) are described in the tables below:
 
 | Column | Content                                     |
 | :----: | :------------------------------------------ |
-| 0      | Year                                        |
-| 1      | Month                                       |
-| 2      | Day                                         |
-| 3      | Hour                                        |
-| 4      | Minute                                      |
-| 5      | Second                                      |
+| 0      | Year (UTC)                                  |
+| 1      | Month (UTC)                                 |
+| 2      | Day (UTC)                                   |
+| 3      | Hour (UTC)                                  |
+| 4      | Minute (UTC)                                |
+| 5      | Second (UTC)                                |
 | 6      | RESERVED                                    |
 | 7      | RESERVED                                    |
 | 8      | RESERVED                                    |
